@@ -27,7 +27,7 @@
   height: 1rem;
   background-repeat: no-repeat;
   background-size: contain;
-  url(../ url(..img/seta.svg);
+  background-image: url(..img/seta.svg);
   transition: .25s;
   margin: .5rem;
 }
