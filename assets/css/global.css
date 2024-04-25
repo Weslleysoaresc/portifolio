@@ -27,7 +27,7 @@ body {
 
 .main::before {
 content: '';
-background-image: url(..img/backgraund-bottom.svg);
+background-image: url(../img/backgraund-bottom.svg);
 background-repeat: no-repeat;
 background-size: contain;
 display: inline-block;
@@ -41,7 +41,7 @@ z-index: -1;
 
 .main::after {
   content: '';
-  background-image: url(..img/backgraund-bottom.svg);
+  background-image: url(../img/backgraund-bottom.svg);
   background-repeat: no-repeat;
   background-size: contain;
   display: inline-block;
