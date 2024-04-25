@@ -18,9 +18,9 @@
   height: 2rem;
   background-repeat:no-repeat;
   background-size: contain;
-  url(../ url('../img/icons/pontos.svg');
+  background-image: url('../img/icons/pontos.svg');
   
-
+background-image: url('..
 }
 
  .photo {
@@ -70,22 +70,22 @@
 }
 
 .information .job::before {
-  url(../ url('../img/icons/job.svg');
+  background-image: url('../img/icons/job.svg');
 
 }
 
 .information .location::before {
-  url(../ url('../img/icons/location.svg');
+  background-image: url('../img/icons/location.svg');
 
 }
 
 .information .contacto::before {
-  url(../ url('../img/icons/contacto.svg');
+  background-image: url('../img/icons/contacto.svg');
 
 }
 
 .information .email::before {
-  url(../ url('../img/icons/email.svg');
+  background-image: url('../img/icons/email.svg');
 
 }
 
