@@ -18,7 +18,7 @@
   height: 2rem;
   background-repeat:no-repeat;
   background-size: contain;
-  background-image: url('assets/Portifolioassets/img/icons/pontos.svg');
+  background-image: url('..Portifolioassets/img/icons/pontos.svg');
   
 
 }
@@ -70,22 +70,22 @@
 }
 
 .information .job::before {
-  background-image: url('assets/Portifolioassets/img/icons/job.svg');
+  background-image: url('..Portifolioassets/img/icons/job.svg');
 
 }
 
 .information .location::before {
-  background-image: url('assets/Portifolioassets/img/icons/location.svg');
+  background-image: url('..Portifolioassets/img/icons/location.svg');
 
 }
 
 .information .contacto::before {
-  background-image: url('assets/Portifolioassets/img/icons/contacto.svg');
+  background-image: url('..Portifolioassets/img/icons/contacto.svg');
 
 }
 
 .information .email::before {
-  background-image: url('assets/Portifolioassets/img/icons/email.svg');
+  background-image: url('..Portifolioassets/img/icons/email.svg');
 
 }
 
