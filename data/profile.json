@@ -1,15 +1,28 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Weslley W C Soares",
+  "photo": "http://127.0.0.1:5500/Portifolio/assets/img/my-photo-weslley_438x438.jpeg",
+  "job": "Junior Developer ",
+  "location": "Oeiras - PT",
+  "phone": "(+351) 966 280 773",
+  "email": "correweslleysoares@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/Weslleysoaresc/js-developer-portfolio/main/data/imgs/html.png"
+      },
+    
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Weslleysoaresc/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Weslleysoaresc/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/Weslleysoaresc/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "Java",
@@ -30,7 +43,16 @@
       {
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/Weslleysoaresc/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       }
+      
     ],
     "softSkills": [
       "Empatia",
@@ -42,37 +64,33 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (iniciante)",
+    "Espanhol (iniciante)"
+    
   ],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Weslleysoaresc/js-developer-pokedex",
       "github": true
     },
     {
-      "name": " Criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/Weslleysoaresc/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "landing page - Vendas de Ebook",
+      "url": "https://github.com/Weslleysoaresc/cuidadoralinjoy",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Desenvolvedor Front-end | Wscode",
+      "period": "2023 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
-    },
-    {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
+    
   ]
 }
