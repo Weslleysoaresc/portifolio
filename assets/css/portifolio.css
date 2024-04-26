@@ -35,7 +35,7 @@
   height: 1rem;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url(../img/github-icon.svg);
+  background-image: url(../img/icons/github-icon.svg);
   transition: .25s;
   margin: .5rem;
 }
