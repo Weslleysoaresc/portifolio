@@ -3,4 +3,6 @@
 - No portfolio aplicamos os conhecimento em Html, Css, Javascript, Node.js, GitHub. montamos o portfolio usando uma api feita json, onde montamos um arquivo com nosso dados para fazer integração e deixar tudo dinamico.
 
 
+-----
+
 - 
